@@ -1,4 +1,4 @@
-# Template-Driven Full-Stack Builder - Auth Module
+# WebPilot AI: Autonomous Web Interaction using LLMs
 
 A fully working authentication system built as the first module of a template-driven full-stack builder platform.
 
